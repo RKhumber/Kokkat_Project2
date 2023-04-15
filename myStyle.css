@@ -1,0 +1,47 @@
+.myHeader {
+    border: 20px;
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
+.myNav {
+    border: 10px;
+    padding: 30;
+    text-align: center;
+}
+
+.myFooter {
+    border: 20px;
+    padding: 30;
+    background-color: burlywood;
+    text-align: center;
+}
+
+.myOl {
+    display: block;
+    list-style-type: disc;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 40px;
+}
+
+.myButton {
+    color: peru;
+    block-size: auto;
+}
+
+.myTable {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.myPictures {
+    width: 500;
+    height: 600;
+}
+
+#first {
+    background-color: thistle;
+}
